@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<dataset>
+    <role id="1" name="USER"/>
+    <role id="2" name="ADMIN"/>
+    <role id="3" name="MANAGER"/>
+    <user id="1" login="firstUser" password="123" email="firstUser@gmail.com" first_name="first" last_name="user"
+          birthday="1999-4-6" role_id="1"/>
+    <user id="2" login="secondUser" password="123" email="secondUser@gmail.com" first_name="second" last_name="user"
+          birthday="2000-1-28" role_id="2"/>
+    <user id="3" login="thirdUser" password="123" email="user3@email.com" first_name="third" last_name="user"
+          birthday="1980-4-10" role_id="3"/>
+</dataset>
